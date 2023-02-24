@@ -3,4 +3,5 @@ let {read} = require('../controllers/articulo')
 
 router.get('/', read)
 
+
 module.exports = router
